@@ -1,0 +1,14 @@
+{
+  "title": "Bulk Name → Phone Extractor",
+  "type": "object",
+  "schemaVersion": 1,
+  "properties": {
+    "names": {
+      "title": "Bulk Names",
+      "type": "string",
+      "description": "Paste one name per line",
+      "editor": "textarea"
+    }
+  },
+  "required": ["names"]
+}
