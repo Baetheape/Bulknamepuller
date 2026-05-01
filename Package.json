@@ -1,0 +1,9 @@
+{
+  "name": "bulknamepuller",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "apify": "^3.0.0",
+    "crawlee": "^3.7.0"
+  }
+}
